@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning Chatbot with AI (STT,TTS) and Machine Learning for Drones (Detection, Classification, Tracking)
 - 💞️ I’m looking to collaborate on Company AI tools for helping with internal need
 - 📫 How to reach me on https://www.linkedin.com/in/bayu-dian-nugroho/
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+  https://rhythmwave.github.io 
 
 <!---
 rhythmwave/rhythmwave is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
